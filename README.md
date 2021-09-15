@@ -30,3 +30,7 @@
 * [Sequence, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 ----------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/shantanu1109/DeepLearning.AI TensorFlow Developer"/>
+</p>  
