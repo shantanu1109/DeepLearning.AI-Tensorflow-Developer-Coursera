@@ -12,10 +12,10 @@ The Machine Learning course and Deep Learning Specialization from Andrew Ng teac
 
 ## WHAT YOU WILL LEARN
 
-Handle real-world image data
+1. Handle real-world image data
 
-Plot loss and accuracy
+2. Plot loss and accuracy
 
-Explore strategies to prevent overfitting, including augmentation and dropout
+3. Explore strategies to prevent overfitting, including augmentation and dropout
 
-Learn transfer learning and how learned features can be extracted from models
+4. Learn transfer learning and how learned features can be extracted from models
