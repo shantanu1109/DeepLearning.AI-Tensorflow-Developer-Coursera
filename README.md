@@ -32,5 +32,5 @@
 ----------------------------------------------------------------------------------------------------------------
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/shantanu1109/DeepLearning.AI TensorFlow Developer"/>
+ <img src="https://badges.pufler.dev/visits/shantanu1109/DeepLearning.AI-Tensorflow-Developer-Coursera"/>
 </p>  
