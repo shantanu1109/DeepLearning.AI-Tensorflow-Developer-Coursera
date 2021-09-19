@@ -19,8 +19,7 @@
 ## Certificate
 
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/ec96cc492939f0f8627844210f98d3fd)
-* [DeepLearning.AI TensorFlow Developer]
-2. [Convolutional Neural Network in Tensorflow]()
+2. [Convolutional Neural Network in Tensorflow](https://www.coursera.org/account/accomplishments/verify/J5XFCSFLF66D)
 
 --------------------------------------------------------------------------------------------------------------
 
