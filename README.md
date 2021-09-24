@@ -22,6 +22,7 @@
 2. [Convolutional Neural Network in Tensorflow](https://www.coursera.org/account/accomplishments/verify/J5XFCSFLF66D)
 3. [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/D26JVBQEE4YY)
 4. [Sequence, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/9DJTEJ6HFTCB)
+5. [DeepLearning.AI TensorFlow Developer (Specialization Certificate)](https://www.coursera.org/account/accomplishments/professional-cert/KCQGYG2KZB2F)
 
 --------------------------------------------------------------------------------------------------------------
 
