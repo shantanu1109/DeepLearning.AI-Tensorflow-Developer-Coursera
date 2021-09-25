@@ -28,7 +28,7 @@
 
 At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/professional-cert/KCQGYG2KZB2F)!
 
-![](Tensorflow-Developer-Specialization-DeepLearning.ai.png)
+![](Tensorflow-Developer-Specialization-DeepLearning.ai.jpg)
 
 --------------------------------------------------------------------------------------------------------------
 
