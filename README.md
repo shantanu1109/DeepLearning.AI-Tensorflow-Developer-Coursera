@@ -24,12 +24,6 @@
 4. [Sequence, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/9DJTEJ6HFTCB)
 5. [DeepLearning.AI TensorFlow Developer (Specialization Certificate)](https://www.coursera.org/account/accomplishments/professional-cert/KCQGYG2KZB2F)
 
-## Specialization Certificate
-
-At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/professional-cert/KCQGYG2KZB2F)!
-
-![](Tensorflow-Developer-Specialization-DeepLearning.ai.jpg)
-
 --------------------------------------------------------------------------------------------------------------
 
 ## References
